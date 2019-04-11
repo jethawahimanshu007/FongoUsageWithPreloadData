@@ -6,6 +6,6 @@ To use this as reference, add following things to your project:
 3) CustomJackson2ResourceReader.java
 4) CustomRepositoryPopulatorFactoryBean.java
 5) FakeMongoMainConfig.java
-6) Change the name of books.json in src/main/resources to anyname you want, change the data as per your collections, and change in FakeMongoMainConfig file the bean Jackson2RepositoryPopulatorFactoryBean to populate data using your json file.
+6) Change the name of books.json in src/main/resources to any name you want, change the data as per your collections, and change in FakeMongoMainConfig file the bean Jackson2RepositoryPopulatorFactoryBean to populate data using your json file.
 
 
