@@ -1,0 +1,25 @@
+{
+  "books":
+  [
+    {
+      "title": "Effective Java",
+      "author": "Achuth Reddy",
+      "categories": [
+        "Programming",
+        "Java"
+      ],
+      "publisher": "Addison-Wesley",
+      "isbnCode": 12345678954
+    },
+    {
+      "title": "Effective Java",
+      "author": "Sumanth",
+      "categories": [
+        "Programming",
+        "Java"
+      ],
+      "publisher": "Addison-Wesley",
+      "isbnCode": 12345678954343
+    }
+  ]
+}

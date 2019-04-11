@@ -1,0 +1,8 @@
+org\gluecoders\library\ApplicationTest.class
+org\gluecoders\library\rest\BooksTest$Behavior.class
+org\gluecoders\library\rest\BooksTest.class
+org\gluecoders\library\config\MongoDataPrefillAutoConfiguration.class
+org\gluecoders\library\dao\config\FakeMongo.class
+org\gluecoders\library\config\SwaggerTest.class
+org\gluecoders\library\models\BookTest.class
+org\gluecoders\library\dao\BookDaoTest.class

@@ -1,0 +1,26 @@
+{
+  "_class" : "org.gluecoders.library.config.DataSet",
+
+  "books": [
+    {
+      "title": "Effective Java",
+      "author": "Joshua Bloch",
+      "categories": [
+        "Programming",
+        "Java"
+      ],
+      "publisher": "Addison-Wesley",
+      "isbnCode": 1234567890
+    },
+    {
+      "title": "Mongo In-memory",
+      "author": "Himanshu Jethawa(LOL)",
+      "categories": [
+        "Programming",
+        "Mongo"
+      ],
+      "publisher": "Mastercard",
+      "isbnCode": 1234567891
+    }
+  ]
+}

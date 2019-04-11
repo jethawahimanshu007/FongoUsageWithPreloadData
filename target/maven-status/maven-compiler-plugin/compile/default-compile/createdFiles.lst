@@ -1,0 +1,17 @@
+org\gluecoders\library\dao\BookDao.class
+org\gluecoders\library\Application.class
+org\gluecoders\library\DataSetExtractor.class
+org\gluecoders\library\services\DefaultBookService.class
+org\gluecoders\library\services\BookService.class
+org\gluecoders\library\config\CustomJackson2ResourceReader.class
+org\gluecoders\library\config\Swagger.class
+org\gluecoders\library\rest\Books.class
+org\gluecoders\library\config\Database$YearMonthConverter.class
+org\gluecoders\library\models\Book$Builder.class
+org\gluecoders\library\config\Database.class
+org\gluecoders\library\models\Book.class
+org\gluecoders\library\config\DataSet.class
+org\gluecoders\library\config\MongoDataPrefillAutoConfiguration.class
+org\gluecoders\library\config\FakeMongoMainConfig.class
+org\gluecoders\library\config\CustomRepositoryPopulatorFactoryBean.class
+org\gluecoders\library\config\DataExtractor.class
